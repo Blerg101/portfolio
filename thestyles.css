@@ -1,6 +1,7 @@
 body {
     background-color: #1a1a2e; 
     color: #e9c455; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header {
@@ -89,7 +90,7 @@ footer {
 }
 
 .image-item img {
-    max-width: 60%;
+    max-width: 75%;
     height: auto;
     border: 2px solid #e9c455; }
 
