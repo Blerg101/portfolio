@@ -68,4 +68,6 @@ footer {
     background-color: #35354a;
     border-radius: 15px;
     margin: 10px;
-    border: 2px solid #e9c455;}
+    border: 2px solid #e9c455;
+    justify-content: center;
+    }
