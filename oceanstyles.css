@@ -56,7 +56,7 @@ section:not(header):not(nav):not(footer):hover {
 
 footer {
     padding: 20px;
-    background-color: #303352; /* Add the appropriate background color for the footer */
+    background-color: #303352; 
     border-radius: 0 0 10px 10px;
     border: 2px solid #e9c455;
     text-align: center;
