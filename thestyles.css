@@ -102,6 +102,7 @@ section#about {
         background-color: #35424a; /* Darker blue-gray sections */
         border-radius: 15px; /* Rounded corners for sections */
         margin: 10px 0;
+        justify-content: center;
     }
 
 
