@@ -64,3 +64,8 @@ footer {
     padding: 20px;
     background
 }
+.video {  padding: 20px;
+    background-color: #35354a;
+    border-radius: 15px;
+    margin: 10px;
+    border: 2px solid #e9c455;}
