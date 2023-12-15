@@ -96,11 +96,9 @@ footer {
     border: 2px solid #e9c455; }
 
 section#about {
-        width: 70%; /* Set the width as needed */
-        margin: 0 auto; /* Center the section */
+        width: 70%; 
         padding: 20px;
-        background-color: #35424a; /* Darker blue-gray sections */
-        border-radius: 15px; /* Rounded corners for sections */
+        border-radius: 15px; 
         margin: 10px 0;
         justify-content: center;
     }
