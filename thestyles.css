@@ -95,12 +95,12 @@ footer {
     height: auto;
     border: 2px solid #e9c455; }
 
-section#about {
-        width: 70%; 
+    section#about {
+        width: 70%;
+        margin: 10px auto; 
         padding: 20px;
-        border-radius: 15px; 
-        margin: 10px 0;
-        justify-content: center;
+        background-color: #35354a;
+        border-radius: 15px;
     }
 
 
