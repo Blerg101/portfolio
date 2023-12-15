@@ -18,6 +18,7 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
 nav {
     display: flex;
     justify-content: space-around;
@@ -55,19 +56,25 @@ section:not(header):not(nav):not(footer):hover {
 
 footer {
     padding: 20px;
-    background
+    background-color: #303352; /* Add the appropriate background color for the footer */
+    border-radius: 0 0 10px 10px;
+    border: 2px solid #e9c455;
+    text-align: center;
 }
-.video {  padding: 20px;
+
+#video {
+    padding: 20px;
     background-color: #35354a;
     border-radius: 15px;
     margin: 10px 0;
     border: 2px solid #e9c455;
-    justify-content:center;
-    }
-section#about {
-        width: 85%;
-        margin: 10px auto; 
-        padding: 20px;
-        background-color: #35354a;
-        border-radius: 15px;
-    }
+}
+
+#about {
+    width: 85%;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #35354a;
+    border-radius: 15px;
+}
+
